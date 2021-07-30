@@ -1,2 +1,3 @@
 hello this is this third added file to solve merge conflict
 this commite was made in remote repo to demonstrate merge conflict
+hduhduhqdwu third commit
